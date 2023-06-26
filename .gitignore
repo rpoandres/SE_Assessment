@@ -162,3 +162,9 @@ cython_debug/
 # Assessment
 .rar
 Data/Mun/
+.gpkg
+.cpg
+.dbf
+.prj
+.shp
+.shx
